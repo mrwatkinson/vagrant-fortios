@@ -1,9 +1,5 @@
 # vagrant-vyos
 
-[//]: # ([![Code Climate](https://codeclimate.com/github/higebu/vagrant-vyos/badges/gpa.svg)](https://codeclimate.com/github/higebu/vagrant-vyos))
-[//]: # ([![Gem Version](https://badge.fury.io/rb/vagrant-vyos.svg)](https://badge.fury.io/rb/vagrant-vyos))
-[//]: # ([![Downloads](http://ruby-gem-downloads-badge.herokuapp.com/vagrant-vyos?type=total&style=flat)](https://rubygems.org/gems/vagrant-vyos))
-
 Vagrant-vyos is a [Vagrant](http://www.vagrantup.com) plugin that adds [FortiOS](https://www.fortinet.com/products/fortigate/fortios.html) support to Vagrant with the goal to be able to deploy basic network connectivity and safely start/stop FortiGate VMs 
 
 It is a fork of [higebu's VyOS plugin](https://github.com/higebu/vagrant-vyos)
